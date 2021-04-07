@@ -6,6 +6,7 @@ void main()
 	clrscr();
 	z=x*y;
 	printf("%d",z);
+	printf("%d",z*z);
 }
 
 	
